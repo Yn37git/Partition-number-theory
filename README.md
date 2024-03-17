@@ -1,5 +1,4 @@
 # Partition-number-theory
----
 Partition function is retated to number theory  
 (explored by Euler, Heine, Ramanujan, Rogers etc.)  
 explore [Partitions function](https://en.wikipedia.org/wiki/Partition_function_(number_theory))
