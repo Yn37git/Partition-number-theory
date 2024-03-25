@@ -4,9 +4,7 @@ Partition function is retated to number theory
 explore [Partitions function](https://en.wikipedia.org/wiki/Partition_function_(number_theory))
 ---
 check out previews on:  
-
-https://pioneering-vine-snake.anacondaapps.cloud/Partition_functions  
-
+- [X] https://clever-urutu.anacondaapps.cloud/Partition_functions
 ---
 here is a description to each of the notebooks above feel free to explore them *!!* 
 + [partitions](https://github.com/Yn37git/Partition-number-theory/blob/main/partitions.ipynb) : Partitions of n (positive integer) using eulers pentagonal formula.
